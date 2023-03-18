@@ -1,16 +1,3 @@
 # users
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app contains Notification service with flutter_local_notifications and timezone packages
+![untitled](https://user-images.githubusercontent.com/119577944/226100428-7b091d81-852c-4d4c-bac8-57788f163e93.gif)
