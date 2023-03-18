@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
 
 import '../data/model/user_model.dart';
-import '../data/service/user_service.dart';
+import '../data/service/remote/user_service.dart';
 
 part 'home_cubit.dart';
 

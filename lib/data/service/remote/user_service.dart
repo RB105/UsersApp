@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:users/data/model/user_model.dart';
 import 'package:users/core/network/dio_config.dart';
 
-import '../../core/network/dio_catch_error.dart';
+import '../../../core/network/dio_catch_error.dart';
 
 class UserService {
   Future<dynamic> getUsers() async {

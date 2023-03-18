@@ -39,6 +39,8 @@ dependencies:
   flutter_bloc: ^8.1.2
   dio: ^5.0.2
   animate_do: ^3.0.2
+  flutter_local_notifications: ^9.6.0
+  timezone: ^0.8.0
 
 dev_dependencies:
   flutter_test:
